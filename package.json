@@ -1,0 +1,24 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "## Table of Contents * [Introduction](#introduction)  * [How it Works](#how-it-works) * [Requirements](#requirements) * [Installation](#installation) * [Contributors](#contributors) * [Demo Images](#demo-images) * [Contact](#contact) * [Links](#links)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banda-adrian/Eat-Da-Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banda-adrian/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/banda-adrian/Eat-Da-Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
