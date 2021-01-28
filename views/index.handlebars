@@ -9,6 +9,7 @@
 	<div class="container">
 		<div class="row">
 
+			{{!-- Left Side --}}
 			<div class="col-6">
 				<ul class="conatiner">
 
@@ -18,20 +19,19 @@
 						{{burger_name}}
 						<button class="burgerDevoured btn btn-primary" data-id="{{id}}"
 							data-newDevouredBurger="{{devoured}}">Devour it!</button>
-						{{!-- <button class="deleteBurger btn btn-primary" data-id="{{this.id}}">Delete!</button> --}}
 					</li>
 					{{/unless}}
 					{{/each}}
 				</ul>
 			</div>
 
+			{{!-- Right Side --}}
 			<div class="col-6">
 				<ul>
 					{{#each burgers}}
 					{{#if devoured}}
 					<li>
 						{{burger_name}}
-						{{!-- <button class="deleteBurger btn btn-primary" data-id="{{this.id}}">Delete!</button> --}}
 					</li>
 					{{/if}}
 					{{/each}}

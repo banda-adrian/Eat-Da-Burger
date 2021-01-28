@@ -27,14 +27,7 @@ Whats need to be installed to run application
 
 ## Demo Images
 
-![screenshot](assets/images/template1.jpg) 
-
-![screenshot](assets/images/template2.png)  
-
-![screenshot](assets/images/template3.png)  
-
-![screenshot](assets/images/template4.jpg)
-
+![screenshot](/public/assets/images/index.png) 
 
 ## Contact
 If you want to contact me you can reach me at email@address.com.
