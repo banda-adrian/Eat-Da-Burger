@@ -11,7 +11,7 @@
 Quick introduction of Application
 
 ## How it Works
-Brief explanation of how it works
+By entering the name of your burger and clicking submit itll move to left side of the list... clicking devour it will move it to the right side.
 
 ## Demo Images
 
@@ -21,5 +21,5 @@ Brief explanation of how it works
 If you want to contact me you can reach me at banda_adrian@outlook.com.
 
 ## Links
-[Heroku](link)  
-[Github](https://github.com/banda-adrian)
+[Heroku](https://eat-da-burger-ab.herokuapp.com/)  
+[Github Profile](https://github.com/banda-adrian)
